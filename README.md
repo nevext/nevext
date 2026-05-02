@@ -9,12 +9,12 @@
     <td width="500px" align="center">
       <img src="./lolla-de-costas-hd.png" width="480px"/>
     </td>
-    <td valign="top" style="padding: 40px;">
+    <td valign="top">
       <h2>whoami</h2>
       <p>I'm <strong>David</strong>, a developer based in Manaus, Amazonas, Brazil.</p>
       <p>Currently studying at <a href="https://ciesa.br/"><strong>CIESA</strong></a> and working at <a href="https://www.eldorado.org.br/"><strong>Instituto de Pesquisa Eldorado</strong></a>.</p>
       <br/>
-      <p>I work with Python, C, HTML, CSS and JS,  building projects, writing articles, creating motion content and leading technical teams.</p>
+      <p>I work with Python, C, HTML, CSS and JS, building projects, writing articles, creating motion content and leading technical teams.</p>
       <p>Outside of code, I create content as <strong>nevext</strong>, videos about games and tech.</p>
       <br/>
       <p><a href="https://nevext.github.io/portfolio-html/">portfolio</a> &nbsp;|&nbsp; <a href="mailto:nevext@outlook.com">nevext@outlook.com</a></p>
@@ -26,32 +26,26 @@
 <!-- TECNOLOGIAS -->
 <table width="100%">
   <tr>
-    <td valign="top" style="padding: 40px;">
+    <td valign="top">
       <h2>tech stack</h2>
-
       <h4>Code</h4>
       <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white"/>
-
+      &nbsp;<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white"/>
       <br/><br/>
       <h4>Adobe Suite</h4>
       <img src="https://skillicons.dev/icons?i=ps,pr,ae,au" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Adobe%20Animate-000000?style=for-the-badge&logo=adobe&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Media%20Encoder-000000?style=for-the-badge&logo=adobe&logoColor=white"/>
-
+      &nbsp;<img src="https://img.shields.io/badge/Adobe%20Animate-000000?style=for-the-badge&logo=adobe&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Media%20Encoder-000000?style=for-the-badge&logo=adobe&logoColor=white"/>
       <br/><br/>
       <h4>Creative & AI Tools</h4>
       <img src="https://skillicons.dev/icons?i=blender,figma" />
-      <br/><br/>
+      <br/>
       <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white"/>
       <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white"/>
       <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
       <br/><br/>
       <h4>Knowledge Areas</h4>
       <img src="https://img.shields.io/badge/Project%20Planning-000000?style=for-the-badge&logoColor=white"/>
@@ -75,7 +69,7 @@
     <td width="500px" align="center">
       <img src="./lolla-apresentando (menos hd).png" width="480px"/>
     </td>
-    <td valign="top" style="padding: 40px;">
+    <td valign="top">
       <h2>projects</h2>
       <br/>
       <a href="https://github.com/nevext/site-boas-vindas-ciesa">
@@ -93,7 +87,7 @@
 <!-- STATS -->
 <table width="100%">
   <tr>
-    <td valign="top" style="padding: 40px;">
+    <td valign="top">
       <h2>stats</h2>
       <br/>
       <img src="https://github-readme-stats.vercel.app/api?username=nevext&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
@@ -113,7 +107,7 @@
     <td width="500px" align="center">
       <img src="./lolla-de-lado.png" width="480px"/>
     </td>
-    <td valign="top" style="padding: 40px;">
+    <td valign="top">
       <h2>contact</h2>
       <br/>
       <a href="https://www.linkedin.com/in/nevesxt">
