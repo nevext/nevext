@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./Downloads/Banner-Temporary.png" width="100%"/>
+  <img src="./assets/banner.png" width="100%"/>
 </div>
