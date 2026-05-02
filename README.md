@@ -1,16 +1,15 @@
 <div align="center">
   <img src="./Banner-Temporary.png" width="100%"/>
 </div>
-
 <br/>
 
 <!-- SOBRE MIM -->
-<table>
+<table width="100%">
   <tr>
-    <td width="300px" align="center">
-      <img src="./lolla-de-costas-hd.png" width="280px"/>
+    <td width="500px" align="center">
+      <img src="./lolla-de-costas-hd.png" width="480px"/>
     </td>
-    <td valign="top" padding="20px">
+    <td valign="top" style="padding: 40px;">
       <h2>whoami</h2>
       <p>Hey, I'm <strong>David</strong> — dev in progress, based in Brazil 🇧🇷</p>
       <ul>
@@ -18,37 +17,36 @@
         <li>💻 Building things with Python, JS and whatever gets the job done</li>
         <li>🎨 Creating <strong>Lolla</strong>, my original anime character</li>
         <li>🎮 Into anime, tech and creative projects</li>
+        <li>🌐 Always learning something new</li>
       </ul>
     </td>
   </tr>
 </table>
-
 <br/>
 
 <!-- TECNOLOGIAS -->
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
+    <td valign="top" style="padding: 40px;">
       <h2>tech stack</h2>
       <p>Languages & tools I work with:</p>
       <br/>
       <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,ps" />
     </td>
-    <td width="300px" align="center">
-      <img src="./lolla-gravata-ofc.png" width="280px"/>
+    <td width="500px" align="center">
+      <img src="./lolla-gravata-ofc.png" width="480px"/>
     </td>
   </tr>
 </table>
-
 <br/>
 
 <!-- PROJETOS -->
-<table>
+<table width="100%">
   <tr>
-    <td width="300px" align="center">
-      <img src="./lolla-apresentando (menos hd).png" width="280px"/>
+    <td width="500px" align="center">
+      <img src="./lolla-apresentando (menos hd).png" width="480px"/>
     </td>
-    <td valign="top">
+    <td valign="top" style="padding: 40px;">
       <h2>projects</h2>
       <br/>
       <a href="https://github.com/nevext/site-boas-vindas-ciesa">
@@ -61,34 +59,32 @@
     </td>
   </tr>
 </table>
-
 <br/>
 
 <!-- STATS -->
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
+    <td valign="top" style="padding: 40px;">
       <h2>stats</h2>
       <br/>
       <img src="https://github-readme-stats.vercel.app/api?username=nevext&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
       <br/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevext&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa"/>
     </td>
-    <td width="300px" align="center">
-      <img src="./lolla-olho-fechado.png" width="280px"/>
+    <td width="500px" align="center">
+      <img src="./lolla-olho-fechado.png" width="480px"/>
     </td>
   </tr>
 </table>
-
 <br/>
 
 <!-- CONTATO -->
-<table>
+<table width="100%">
   <tr>
-    <td width="300px" align="center">
-      <img src="./lolla-de-lado.png" width="280px"/>
+    <td width="500px" align="center">
+      <img src="./lolla-de-lado.png" width="480px"/>
     </td>
-    <td valign="top">
+    <td valign="top" style="padding: 40px;">
       <h2>contact</h2>
       <br/>
       <a href="https://www.linkedin.com/in/nevesxt">
@@ -105,7 +101,6 @@
     </td>
   </tr>
 </table>
-
 <br/>
 
 <div align="center">
