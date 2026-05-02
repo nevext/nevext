@@ -28,17 +28,21 @@
   <tr>
     <td valign="top">
       <h2>tech stack</h2>
+
       <h4>Code</h4>
       <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode" />
-      &nbsp;<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white"/>
+      <!-- TODO: adicionar badge do Antigravity quando tiver imagem -->
       <br/><br/>
+
       <h4>Adobe Suite</h4>
       <img src="https://skillicons.dev/icons?i=ps,pr,ae,au" />
-      &nbsp;<img src="https://img.shields.io/badge/Adobe%20Animate-000000?style=for-the-badge&logo=adobe&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/Media%20Encoder-000000?style=for-the-badge&logo=adobe&logoColor=white"/>
+      <!-- TODO: adicionar badge do Adobe Animate quando tiver imagem -->
+      <!-- TODO: adicionar badge do Media Encoder quando tiver imagem -->
       <br/><br/>
+
       <h4>Creative & AI Tools</h4>
-      <img src="https://skillicons.dev/icons?i=blender,figma" />
+      <img src="https://skillicons.dev/icons?i=blender" />
+      <!-- TODO: adicionar badge do Figma quando tiver imagem -->
       <br/>
       <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white"/>
       <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white"/>
@@ -47,6 +51,7 @@
       <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
       <br/><br/>
+
       <h4>Knowledge Areas</h4>
       <img src="https://img.shields.io/badge/Project%20Planning-000000?style=for-the-badge&logoColor=white"/>
       <img src="https://img.shields.io/badge/Technical%20Leadership-000000?style=for-the-badge&logoColor=white"/>
@@ -90,9 +95,7 @@
     <td valign="top">
       <h2>stats</h2>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=nevext&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevext&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa"/>
+      <img src="https://streak-stats.demolab.com?user=nevext&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
     </td>
     <td width="500px" align="center">
       <img src="./lolla-olho-fechado.png" width="480px"/>
