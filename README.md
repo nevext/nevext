@@ -29,15 +29,15 @@
     <td valign="top">
       <h2>tech stack</h2>
 
-      <h4>Code</h4>
+      <br/><strong>Code</strong><br/>
       <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode" />
       <br/><br/>
 
-      <h4>Adobe Suite</h4>
+      <br/><strong>Adobe Suite</strong><br/>
       <img src="https://skillicons.dev/icons?i=ps,pr,ae,au" />
       <br/><br/>
 
-      <h4>Creative & AI Tools</h4>
+      <br/><strong>Creative & AI Tools</strong><br/>
       <img src="https://skillicons.dev/icons?i=blender" />
       <br/>
       <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -48,7 +48,7 @@
       <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
       <br/><br/>
 
-      <h4>Knowledge Areas</h4>
+      <br/><strong>Knowledge Areas</strong><br/>
       <img src="https://img.shields.io/badge/Project%20Planning-000000?style=for-the-badge&logoColor=white"/>
       <img src="https://img.shields.io/badge/Technical%20Leadership-000000?style=for-the-badge&logoColor=white"/>
       <img src="https://img.shields.io/badge/Social%20Media-000000?style=for-the-badge&logoColor=white"/>
