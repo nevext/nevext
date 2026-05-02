@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="300px" align="center">
-      <img src="./assets/lolla-de-costas.png" width="280px"/>
+      <img src="./lolla-de-costas-hd.png" width="280px"/>
     </td>
     <td valign="top" padding="20px">
       <h2>whoami</h2>
@@ -35,7 +35,7 @@
       <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,ps" />
     </td>
     <td width="300px" align="center">
-      <img src="./assets/lolla-gravata.png" width="280px"/>
+      <img src="./lolla-gravata-ofc.png" width="280px"/>
     </td>
   </tr>
 </table>
@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td width="300px" align="center">
-      <img src="./assets/lolla-apresentando.png" width="280px"/>
+      <img src="./lolla-apresentando (menos hd).png" width="280px"/>
     </td>
     <td valign="top">
       <h2>projects</h2>
@@ -75,7 +75,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevext&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa"/>
     </td>
     <td width="300px" align="center">
-      <img src="./assets/lolla-olho-fechado.png" width="280px"/>
+      <img src="./lolla-olho-fechado.png" width="280px"/>
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@
 <table>
   <tr>
     <td width="300px" align="center">
-      <img src="./assets/lolla-de-lado.png" width="280px"/>
+      <img src="./lolla-de-lado.png" width="280px"/>
     </td>
     <td valign="top">
       <h2>contact</h2>
