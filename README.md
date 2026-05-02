@@ -67,16 +67,16 @@
       <h2>recent projects</h2>
       <br/>
       <p><a href="https://nevext.github.io/portfolio-html/"><strong>portfolio</strong></a></p>
-      <p>Personal portfolio, updated regularly — HTML, CSS, JS</p>
+      <p>Personal portfolio, updated regularly with HTML, CSS, JS</p>
       <br/>
       <p><a href="https://nevext.github.io/site-boas-vindas-ciesa/"><strong>site-boas-vindas-ciesa</strong></a></p>
-      <p>Welcome website for new CIESA students — JavaScript</p>
+      <p>Welcome website for new CIESA students with JavaScript</p>
       <br/>
       <p><a href="https://nevext.github.io/glossario-ingles-ciesa/"><strong>glossario-ingles-ciesa</strong></a></p>
-      <p>English glossary for CIESA students — JavaScript</p>
+      <p>English glossary for CIESA students with JavaScript</p>
       <br/>
       <p><a href="https://nevext.github.io/ACTV---CIESA/"><strong>ACTV</strong></a></p>
-      <p>Academic project — obsolete version, advanced version is private</p>
+      <p>Academic project with obsolete version, advanced version is private</p>
     </td>
   </tr>
 </table>
