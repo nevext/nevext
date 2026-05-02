@@ -66,13 +66,14 @@
     <td valign="top">
       <h2>projects</h2>
       <br/>
-      <a href="https://github.com/nevext/site-boas-vindas-ciesa">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevext&repo=site-boas-vindas-ciesa&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa"/>
-      </a>
-      <br/><br/>
-      <a href="https://github.com/nevext/portfolio-html">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevext&repo=portfolio-html&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa"/>
-      </a>
+      <p><a href="https://github.com/nevext/site-boas-vindas-ciesa"><strong>site-boas-vindas-ciesa</strong></a></p>
+      <p>Website for new CIESA players — JavaScript</p>
+      <br/>
+      <p><a href="https://github.com/nevext/portfolio-html"><strong>portfolio-html</strong></a></p>
+      <p>Personal portfolio — HTML, CSS, JS</p>
+      <br/>
+      <p><a href="https://github.com/nevext/glossario-ingles-ciesa"><strong>glossario-ingles-ciesa</strong></a></p>
+      <p>English glossary — JavaScript</p>
     </td>
   </tr>
 </table>
