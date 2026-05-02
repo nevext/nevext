@@ -14,8 +14,8 @@
       <p>I'm <strong>David</strong>, a developer based in Manaus, Amazonas, Brazil.</p>
       <p>Currently studying at <a href="https://ciesa.br/"><strong>CIESA</strong></a> and working at <a href="https://www.eldorado.org.br/"><strong>Instituto de Pesquisa Eldorado</strong></a>.</p>
       <br/>
-      <p>I work with Python, C, HTML, CSS and JS — building projects, writing articles, creating motion content and leading technical teams.</p>
-      <p>Outside of code, I create content as <strong>nevext</strong> — videos about games and tech.</p>
+      <p>I work with Python, C, HTML, CSS and JS,  building projects, writing articles, creating motion content and leading technical teams.</p>
+      <p>Outside of code, I create content as <strong>nevext</strong>, videos about games and tech.</p>
       <br/>
       <p><a href="https://nevext.github.io/portfolio-html/">portfolio</a> &nbsp;|&nbsp; <a href="mailto:nevext@outlook.com">nevext@outlook.com</a></p>
     </td>
@@ -28,9 +28,39 @@
   <tr>
     <td valign="top" style="padding: 40px;">
       <h2>tech stack</h2>
-      <p>Languages & tools I work with:</p>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode,ps" />
+
+      <h4>Code</h4>
+      <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white"/>
+
+      <br/><br/>
+      <h4>Adobe Suite</h4>
+      <img src="https://skillicons.dev/icons?i=ps,pr,ae,au" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Adobe%20Animate-000000?style=for-the-badge&logo=adobe&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Media%20Encoder-000000?style=for-the-badge&logo=adobe&logoColor=white"/>
+
+      <br/><br/>
+      <h4>Creative & AI Tools</h4>
+      <img src="https://skillicons.dev/icons?i=blender,figma" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+      <br/><br/>
+      <h4>Knowledge Areas</h4>
+      <img src="https://img.shields.io/badge/Project%20Planning-000000?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Technical%20Leadership-000000?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Social%20Media-000000?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Networks%201G–5G-000000?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI%20Ethics-000000?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/English%20Advanced-000000?style=for-the-badge&logoColor=white"/>
     </td>
     <td width="500px" align="center">
       <img src="./lolla-gravata-ofc.png" width="480px"/>
