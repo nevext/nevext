@@ -23,45 +23,40 @@
 </table>
 <br/>
 
-<!-- TECNOLOGIAS -->
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <h2>tech stack</h2>
+## tech stack
 
-      <br/><strong>Code</strong><br/>
-      <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode" />
-      <br/><br/>
+**Code**
 
-      <br/><strong>Adobe Suite</strong><br/>
-      <img src="https://skillicons.dev/icons?i=ps,pr,ae,au" />
-      <br/><br/>
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode" />
 
-      <br/><strong>Creative & AI Tools</strong><br/>
-      <img src="https://skillicons.dev/icons?i=blender" />
-      <br/>
-      <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
-      <br/><br/>
+**Adobe Suite**
 
-      <br/><strong>Knowledge Areas</strong><br/>
-      <img src="https://img.shields.io/badge/Project%20Planning-000000?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Technical%20Leadership-000000?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Social%20Media-000000?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Networks%201G–5G-000000?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI%20Ethics-000000?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/English%20Advanced-000000?style=for-the-badge&logoColor=white"/>
-    </td>
-    <td width="500px" align="center">
-      <img src="./lolla-gravata-ofc.png" width="480px"/>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,au" />
+
+**Creative & AI Tools**
+
+<img src="https://skillicons.dev/icons?i=blender" />
+
+<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+**Knowledge Areas**
+
+<img src="https://img.shields.io/badge/Project%20Planning-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Technical%20Leadership-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Social%20Media-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networks%201G–5G-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Ethics-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/English%20Advanced-000000?style=for-the-badge&logoColor=white"/>
+
+<div align="center">
+  <img src="./lolla-gravata-ofc.png" width="480px"/>
+</div>
 <br/>
 
 <!-- PROJETOS -->
