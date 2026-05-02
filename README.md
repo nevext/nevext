@@ -64,16 +64,19 @@
       <img src="./lolla-apresentando (menos hd).png" width="480px"/>
     </td>
     <td valign="top">
-      <h2>projects</h2>
+      <h2>recent projects</h2>
       <br/>
-      <p><a href="https://github.com/nevext/site-boas-vindas-ciesa"><strong>site-boas-vindas-ciesa</strong></a></p>
-      <p>Website for new CIESA players — JavaScript</p>
+      <p><a href="https://nevext.github.io/portfolio-html/"><strong>portfolio</strong></a></p>
+      <p>Personal portfolio, updated regularly — HTML, CSS, JS</p>
       <br/>
-      <p><a href="https://github.com/nevext/portfolio-html"><strong>portfolio-html</strong></a></p>
-      <p>Personal portfolio — HTML, CSS, JS</p>
+      <p><a href="https://nevext.github.io/site-boas-vindas-ciesa/"><strong>site-boas-vindas-ciesa</strong></a></p>
+      <p>Welcome website for new CIESA students — JavaScript</p>
       <br/>
-      <p><a href="https://github.com/nevext/glossario-ingles-ciesa"><strong>glossario-ingles-ciesa</strong></a></p>
-      <p>English glossary — JavaScript</p>
+      <p><a href="https://nevext.github.io/glossario-ingles-ciesa/"><strong>glossario-ingles-ciesa</strong></a></p>
+      <p>English glossary for CIESA students — JavaScript</p>
+      <br/>
+      <p><a href="https://nevext.github.io/ACTV---CIESA/"><strong>ACTV</strong></a></p>
+      <p>Academic project — obsolete version, advanced version is private</p>
     </td>
   </tr>
 </table>
