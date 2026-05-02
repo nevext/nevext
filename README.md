@@ -11,14 +11,13 @@
     </td>
     <td valign="top" style="padding: 40px;">
       <h2>whoami</h2>
-      <p>Hey, I'm <strong>David</strong> — dev in progress, based in Brazil 🇧🇷</p>
-      <ul>
-        <li>🎓 Studying at <strong>CIESA</strong></li>
-        <li>💻 Building things with Python, JS and whatever gets the job done</li>
-        <li>🎨 Creating <strong>Lolla</strong>, my original anime character</li>
-        <li>🎮 Into anime, tech and creative projects</li>
-        <li>🌐 Always learning something new</li>
-      </ul>
+      <p>I'm <strong>David</strong>, a developer based in Manaus, Amazonas, Brazil.</p>
+      <p>Currently studying at <a href="https://ciesa.br/"><strong>CIESA</strong></a> and working at <a href="https://www.eldorado.org.br/"><strong>Instituto de Pesquisa Eldorado</strong></a>.</p>
+      <br/>
+      <p>I work with Python, C, HTML, CSS and JS — building projects, writing articles, creating motion content and leading technical teams.</p>
+      <p>Outside of code, I create content as <strong>nevext</strong> — videos about games and tech.</p>
+      <br/>
+      <p><a href="https://nevext.github.io/portfolio-html/">portfolio</a> &nbsp;|&nbsp; <a href="mailto:nevext@outlook.com">nevext@outlook.com</a></p>
     </td>
   </tr>
 </table>
@@ -31,7 +30,7 @@
       <h2>tech stack</h2>
       <p>Languages & tools I work with:</p>
       <br/>
-      <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,ps" />
+      <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode,ps" />
     </td>
     <td width="500px" align="center">
       <img src="./lolla-gravata-ofc.png" width="480px"/>
@@ -95,8 +94,16 @@
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
       </a>
       <br/><br/>
-      <a href="https://www.instagram.com/nevexttv">
+      <a href="https://www.youtube.com/@nevext">
+        <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <a href="https://www.instagram.com/nevexttv/">
         <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <a href="mailto:nevext@outlook.com">
+        <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
       </a>
     </td>
   </tr>
