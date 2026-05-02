@@ -31,18 +31,14 @@
 
       <h4>Code</h4>
       <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode" />
-      <!-- TODO: adicionar badge do Antigravity quando tiver imagem -->
       <br/><br/>
 
       <h4>Adobe Suite</h4>
       <img src="https://skillicons.dev/icons?i=ps,pr,ae,au" />
-      <!-- TODO: adicionar badge do Adobe Animate quando tiver imagem -->
-      <!-- TODO: adicionar badge do Media Encoder quando tiver imagem -->
       <br/><br/>
 
       <h4>Creative & AI Tools</h4>
       <img src="https://skillicons.dev/icons?i=blender" />
-      <!-- TODO: adicionar badge do Figma quando tiver imagem -->
       <br/>
       <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white"/>
       <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white"/>
